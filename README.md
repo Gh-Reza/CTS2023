@@ -186,8 +186,6 @@ If you like this project, don't forget to star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Acknowledgment:
-
 I would like to express my gratitude to [Microverse](https://www.microverse.org/) for their strong support.
 
 Special thanks to [Cindy Shin](https://www.behance.net/adagio07) for here exceptional design which served as inspiration for this project.
