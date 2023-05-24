@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="style.css">
   <title>Capstone</title>
 </head>
-<body>
+<body id="home-page">
   <header class="section-header" id="section-header">
     <nav>
       <div class="nav nav-1 gen-padding">
@@ -23,8 +23,8 @@
       </div>
       <div class="nav nav-2 gen-padding">
         <div class="logo"><img src="assets/logo.png" alt=""></div>
-        <ul class="nav-box">
-          <li><a href="#">About</a></li>
+        <ul class="nav-box nav-box-2">
+          <li><a href="about.html">About</a></li>
           <li><a href="#">Program</a></li>
           <li><a href="#">Join</a></li>
           <li><a href="#">Sponser</a></li>
@@ -34,14 +34,14 @@
       </div>
     </nav>
     <nav class="mobile-nav">
-      <div class="humbarger"><i class="fa-solid fa-bars icon--normal"></i></div>
-      <ul class="nav-box">
-        <li><a href="#">About</a></li>
+      <div><i class="fa-solid fa-bars humbarger icon--normal"></i></div>
+      <ul class="mobile-nav-box">
+        <li><a href="about.html">About</a></li>
         <li><a href="#">Program</a></li>
         <li><a href="#">Join</a></li>
         <li><a href="#">Sponser</a></li>
         <li><a href="#">News</a></li>
-        <li><a href="#">CC Comapaign</a></li>
+        <li><a href="#">CTS Comapaign</a></li>
       </ul>
     </nav>
   </header>
@@ -67,7 +67,7 @@
         </div>
         <div class="program-item">
           <div class="icon-box"><img src="assets/CCexibition.svg" alt="carbon"></div>
-          <h3 class="program-title">CTS Exhibation</h3>
+          <h3 class="program-title">Exhibation</h3>
           <p class="program-description normal">Exhibition at the London Climate Technology Show offers the most established and.</p>
         </div>
         <div class="program-item">
@@ -91,81 +91,9 @@
     </section>
     <section class="section-speaker gen-padding">
       <h3 class="title">Featured Speaker</h3>
-      <div class="content-container">
-        <div class="speaker-item">
-          <div class="img-box">
-            <img class="chess" src="assets/chess.jpg" alt="chess">
-            <img class="speaker-img" src="assets/Charllott.jpeg" alt="speaker image">
-          </div>
-          <div class="text-box">
-            <h3 class="speaker-name">Charlotte Hutchinson</h3>
-            <p class="speaker-position">Cloud Sustainability Specialist Google Cloud</p>
-            <span class="sap-line"></span>
-            <p class="speaker-discription normal">Charlotte is a cloud sustainability specialist, where she looks to focus on</p>
-          </div>
-        </div>
-        <div class="speaker-item">
-          <div class="img-box">
-            <img class="chess" src="assets/chess.jpg" alt="chess">
-            <img class="speaker-img" src="assets/Beverley.jpeg" alt="speaker image">
-          </div>
-          <div class="text-box">
-            <h3 class="speaker-name">Beverley Gower-Jones</h3>
-            <p class="speaker-position">Managing Partner Clean Growth Fund</p>
-            <span class="sap-line"></span>
-            <p class="speaker-discription normal">Beverley Gower-Jones OBE is Managing Partner of Clean Growth Fund (2020),</p>
-          </div>
-        </div>
-        <div class="speaker-item">
-          <div class="img-box">
-            <img class="chess" src="assets/chess.jpg" alt="chess">
-            <img class="speaker-img" src="assets/Charles.jpeg" alt="speaker image">
-          </div>
-          <div class="text-box">
-            <h3 class="speaker-name">Charles Wood</h3>
-            <p class="speaker-position">Deputy Director, Policy Energy UK</p>
-            <span class="sap-line"></span>
-            <p class="speaker-discription normal">Charlotte is a cloud sustainability specialist, where she looks to focus on</p>
-          </div>
-        </div>
-        <div class="speaker-item">
-          <div class="img-box">
-            <img class="chess" src="assets/chess.jpg" alt="chess">
-            <img class="speaker-img" src="assets/David.jpeg" alt="speaker image">
-          </div>
-          <div class="text-box">
-            <h3 class="speaker-name">David Lu</h3>
-            <p class="speaker-position">CEO and Co-Founder Clarity Movement Co.</p>
-            <span class="sap-line"></span>
-            <p class="speaker-discription normal">David Lu is a co-founder and the CEO of Clarity Movement Co, an</p>
-          </div>
-        </div>
-        <div class="speaker-item">
-          <div class="img-box">
-            <img class="chess" src="assets/chess.jpg" alt="chess">
-            <img class="speaker-img" src="assets/Louisa.jpeg" alt="speaker image">
-          </div>
-          <div class="text-box">
-            <h3 class="speaker-name">Louisa Tholstrup</h3>
-            <p class="speaker-position">Senior Investment & Innovation Manager The Earthshot Prize</p>
-            <span class="sap-line"></span>
-            <p class="speaker-discription normal">David Lu is a co-founder and the CEO of Clarity Movement Co, an</p>
-          </div>
-        </div>
-        <div class="speaker-item">
-          <div class="img-box">
-            <img class="chess" src="assets/chess.jpg" alt="chess">
-            <img class="speaker-img" src="assets/marzia.jpeg" alt="speaker image">
-          </div>
-          <div class="text-box">
-            <h3 class="speaker-name">Marzia Zafar</h3>
-            <p class="speaker-position">Deputy Director,Digitalization & Decentralization Ofgem</p>
-            <span class="sap-line"></span>
-            <p class="speaker-discription normal">David Lu is a co-founder and the CEO of Clarity Movement Co, an</p>
-          </div>
-        </div>
+      <div class="speaker-container content-container">
+        
       </div>
-      <a href="#" class="btnMore">More <i class="fa-solid fa-chevron-down icon--small"></i></a>
     </section>
     <section class="section-partner gen-padding">
       <h3 class="title">Partner</h3>
@@ -182,5 +110,6 @@
       <div class="copyright normal">2023 Climate Thechnology Show. Some rights reserved</div>
     </footer>
   </main>
+  <script type="module" src="./js/main.js"></script>
 </body>
 </html>
