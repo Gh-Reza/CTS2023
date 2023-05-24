@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>Portfolio-mobile-version</b></h3>
+  <h3><b>Climate Thecnlology Show 2023</b></h3>
 
 </div>
 
@@ -31,7 +31,7 @@
 
 # 📖 [Portfolio-mobile-version] <a name="about-project"></a>
 
-**[Portfolio-mobile-version]** is the mobile version of my portfolio
+**[Climate Tachnology Show 2023]** is my first capstone project in Microverse.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -60,18 +60,16 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Toolbar]**
 - **[Header]**
-- **[Recent Works]**
-- **[About me]**
-- **[Contact Form]**
+- **[Hero]**
+- **[About]**
 - **[Responsive]**
 - **[Mobile menu]**
 
-In this project best coding practices is use
+In this project best coding practices is used
 
 ## 🚀 Live Demo 
-For visiting the live demo click <a href="https://gh-reza.github.io/Portfolio-mobile-version/" name="live-demo">here</a>.
+For visiting the live demo click <a href="https://gh-reza.github.io/CTS2023/" name="live-demo">here</a>.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -161,30 +159,16 @@ Your working browser.
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Reza Merzaie**
-👤 **Glauber Bannwart**
-👤 **Roshdy**
-👤 **Pablo**
 
 - GitHub: [@githubhandle](https://github.com/Gh-Reza)
 - Twitter: [@twitterhandle](https://twitter.com/RezaMerzaie)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/reza-merzaie-b94368202/)
 
-- GitHub: [@githubhandle](https://github.com/Glauber)
-- Twitter: [@twitterhandle](https://twitter.com/Glauber)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/Glauber/)
-
-- GitHub: [@githubhandle](https://github.com/Roshdy)
-- Twitter: [@twitterhandle](https://twitter.com/Roshdy)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/roshdy/)
-
-- GitHub: [@githubhandle](https://github.com/Pablo)
-- Twitter: [@twitterhandle](https://twitter.com/Pablo)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/Pablo/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Desktop version]**
-- [ ] **[Resposive version]**
+- [ ] **[Add some animations]**
+- [ ] **[Buld other pages]**
 
 ## 🤝 Contributing <a name="contributing"></a>
 
