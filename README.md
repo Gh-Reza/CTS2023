@@ -29,7 +29,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Portfolio-mobile-version] <a name="about-project"></a>
+# 📖 [Climate Tachnology Show 2023] <a name="about-project"></a>
 
 **[Climate Tachnology Show 2023]** is my first capstone project in Microverse.
 
