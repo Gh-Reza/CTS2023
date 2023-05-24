@@ -12,7 +12,7 @@ const card = (data) => [
       <p class="speaker-discription normal">${data.speakerDescription}</p>
     </div>
   </div>
-  `
-]
+  `,
+];
 
-export {card};
+export default card;
