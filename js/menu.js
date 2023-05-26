@@ -7,7 +7,7 @@ export default function mobileMenu() {
     clickCount += 1;
     if (clickCount % 2 !== 0) {
       menu.style.display = 'flex';
-      btnMenu.classList.add('fa-xmark');
+      btnMenu.classList.add('fa-mark');
       btnMenu.classList.remove('fa-bars');
     } else {
       menu.style.display = 'none';
